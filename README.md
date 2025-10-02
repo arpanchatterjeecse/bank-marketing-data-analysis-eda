@@ -1,4 +1,5 @@
-<div align="center">Marketing Campaign Analytics Project</div>
+<div align="center"><h1>Marketing Campaign Analytics Project</h1></div>
+
 <div align="center">Analyze, optimize, and present actionable business insights from marketing campaign data using Python and modern data science techniques.</div>
 
 📈 Project Workflow
