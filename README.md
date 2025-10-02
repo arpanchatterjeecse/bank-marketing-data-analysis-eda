@@ -1,14 +1,8 @@
-# Marketing Campaign Analytics Project
+<div align="center">Marketing Campaign Analytics Project</div>
+<div align="center">Analyze, optimize, and present actionable business insights from marketing campaign data using Python and modern data science techniques.</div>
 
-Analyze, optimize, and present actionable business insights from marketing campaign data using Python and modern data science techniques.
-
----
-
-## 📈 Project Workflow
-
-> This project follows a robust, end-to-end data-to-insights workflow, using real or simulated marketing campaign datasets. The codebase is fully modular and reproducible for Jupyter/Kaggle notebooks, and extensible to dashboarding tools like Tableau, Power BI, or Plotly Dash.
-
----
+📈 Project Workflow
+This project follows a robust, end-to-end data-to-insights workflow, using real or simulated marketing campaign datasets. The codebase is fully modular and reproducible for Jupyter/Kaggle notebooks, and extensible to dashboarding tools like Tableau, Power BI, or Plotly Dash.
 
 ### 1. Data Collection
 
